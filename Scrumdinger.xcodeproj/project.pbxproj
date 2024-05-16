@@ -31,6 +31,7 @@
 		3D4139D12BF5A70100A649C5 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D4139D02BF5A70100A649C5 /* ding.wav */; };
 		3D4139D32BF5EC1D00A649C5 /* NewScrumSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4139D22BF5EC1D00A649C5 /* NewScrumSheet.swift */; };
 		3D4139D52BF5EE7F00A649C5 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4139D42BF5EE7F00A649C5 /* History.swift */; };
+		3D4139D72BF61EF300A649C5 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4139D62BF61EF300A649C5 /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,6 +79,7 @@
 		3D4139D02BF5A70100A649C5 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
 		3D4139D22BF5EC1D00A649C5 /* NewScrumSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumSheet.swift; sourceTree = "<group>"; };
 		3D4139D42BF5EE7F00A649C5 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		3D4139D62BF61EF300A649C5 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +183,7 @@
 				3D4139B52BF459F800A649C5 /* DailyScrum.swift */,
 				3D4139D42BF5EE7F00A649C5 /* History.swift */,
 				3D4139CB2BF5A5A400A649C5 /* AVPlayer+Ding.swift */,
+				3D4139D62BF61EF300A649C5 /* ScrumStore.swift */,
 				3D4139C72BF59CDD00A649C5 /* ScrumTimer.swift */,
 			);
 			path = Models;
@@ -331,6 +334,7 @@
 				3D4139CE2BF5A5D800A649C5 /* ScrumProgressViewStyle.swift in Sources */,
 				3D4139BE2BF4A30100A649C5 /* DetailView.swift in Sources */,
 				3D4139CA2BF59F2100A649C5 /* MeetingFooterView.swift in Sources */,
+				3D4139D72BF61EF300A649C5 /* ScrumStore.swift in Sources */,
 				3D4139CC2BF5A5A400A649C5 /* AVPlayer+Ding.swift in Sources */,
 				3D4139C62BF5965900A649C5 /* MeetingHeaderView.swift in Sources */,
 				3D4139C02BF4B0CC00A649C5 /* DetailEditView.swift in Sources */,
